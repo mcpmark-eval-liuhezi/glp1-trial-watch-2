@@ -1,16 +1,5 @@
-# GLP-1 RA Trial Watch
+# GLP-1 RA in Type 2 Diabetes — Trial Watch
 
-Quarterly tracking repository for the endocrinology group's pipeline review — GLP-1 receptor agonists in type 2 diabetes.
+Tracking repository for the endocrinology group's quarterly pipeline review on GLP-1 receptor agonists in type 2 diabetes.
 
-## Purpose
-
-Capture the late-stage (Phase 3) recruiting landscape for GLP-1 receptor agonist trials in adults with type 2 diabetes directly from the ClinicalTrials.gov registry, so the team has a durable, referenceable record instead of scattered notes.
-
-## Contents
-
-- One tracking issue per selected Phase 3 trial (NCT ID, sponsor, phase, planned enrollment, primary completion date).
-- A parent summary issue with the per-phase and per-sponsor-class breakdowns of the full recruiting search.
-
-## Data source
-
-ClinicalTrials.gov registry searches — recruiting studies of GLP-1 receptor agonists in type 2 diabetes.
+This repo captures the late-stage landscape of currently recruiting Phase 3 studies of GLP-1 receptor agonists in adults with type 2 diabetes from ClinicalTrials.gov: one tracking issue per selected trial (sponsor, phase, planned enrollment, primary completion date) and a parent summary issue with the phase and sponsor-class breakdowns of the full recruiting search. Selected trials this quarter: NCT07083154, NCT07775404, NCT05569772.
