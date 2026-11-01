@@ -4,7 +4,7 @@ Tracking repository for the endocrinology group's quarterly pipeline review on *
 
 ## Purpose
 
-Captures currently recruiting Phase 3 trials of GLP-1 receptor agonists in adults with type 2 diabetes, with key registry details (sponsor, phase, planned enrollment, primary completion date) and aggregate breakdowns by phase and sponsor class.
+This repository captures the late-stage (Phase 3) recruiting landscape of GLP-1 receptor agonist trials in adults with type 2 diabetes captured from ClinicalTrials.gov. For each selected trial, a tracking issue records the NCT ID, sponsor, phase, planned enrollment, and primary completion date. A parent summary issue holds the aggregate breakdowns by phase and by sponsor class.
 
 ## Contents
 
